@@ -1,4 +1,4 @@
-# 🌊 Ocean Hazard AI Platform
+# Ocean Hazard AI Platform
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28-red.svg)](https://streamlit.io/)
@@ -160,22 +160,14 @@ hotspots = ai.generate_hotspots(results)
 - [ ] Offline mode for remote areas
 - [ ] Integration with official warning systems
 
-
-## 👥 Team
-
-**[Your Name]** - AI/ML Developer & Project Lead
-- GitHub: [@your_username](https://github.com/your_username)
-- LinkedIn: [Your Profile](https://linkedin.com/in/your_profile)
-- Email: your.email@example.com
-
-## 🏆 Acknowledgments
+## Acknowledgments
 
 - **Smart India Hackathon 2024** - INCOIS Problem Statement
 - **Hugging Face** - Pre-trained transformer models
 - **Streamlit** - Dashboard framework
 - **Indian National Centre for Ocean Information Services (INCOIS)**
 
-## 📧 Contact
+## Contact
 
 For questions or collaboration opportunities:
 - Email: architath27@gmail.com
